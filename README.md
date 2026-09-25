@@ -33,6 +33,7 @@ Networking | AWS | Cloud Infrastructure | Linux | Troubleshooting
 
 ## 🔗 Connect With Me
 
-- [LinkedIn](www.linkedin.com/in/dwoodruff15
-)
+- [LinkedIn](https://www.linkedin.com/in/dwoodruff15)
+- [Email](mailto:Dwoodruff15@gmail.com)
 - Portfolio Website — Coming Soon
+
